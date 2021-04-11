@@ -2,10 +2,10 @@
 It's my portfolio of websites. Enjoy it!
 
 <b>Made with:</b><br/>
-Lorem ipsulum v1.4
+HTML, Bootstrap 4.3.1
 <br/><br/>
 <b>What is this?</b><br/>
-A README.md file!
+A portfolio of my websites.
 <br/><br/>
 <b>Description:</b><br/>
 My default template of readme
@@ -34,9 +34,9 @@ Type the commands here
 
 
 # How is the development of the project right now?
-<b>Last update:</b> 28/02/2021
+<b>Last update:</b> 11/04/2021
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
+Nowadays it's only centralizing the repos with websites
 
 <br/>
 
