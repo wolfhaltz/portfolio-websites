@@ -19,12 +19,7 @@ My default template of readme
 
 # Project setup
 ```
-Type the commands here
-```
-
-### Compiles and hot-reloads for development
-```
-Type the commands here
+Open index.html on your favorite browser! :)
 ```
 
 <b>Thank you for your support!</b>
@@ -34,7 +29,7 @@ Type the commands here
 
 
 # How is the development of the project right now?
-<b>Last update:</b> 11/04/2021
+<b>Last update:</b> 12/04/2021
 
 Nowadays it's only centralizing the repos with websites
 
@@ -42,7 +37,7 @@ Nowadays it's only centralizing the repos with websites
 
 # Credits
 
-Lorem ipsum dolor sit amet
+Nothing here yet! ¯\_(ツ)_/¯
 
 
 <div>
