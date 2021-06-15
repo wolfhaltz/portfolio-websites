@@ -1,0 +1,36 @@
+/* General
+--------------------------------------------------------
+*/
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.section__title{font-size: 48px;font-weight: 900;}
+.section__title--up{font-size: 22px;color: #7c4b4b;}
+
+/* Header
+--------------------------------------------------------
+*/
+header{
+    display: grid;
+    align-items: center;
+    height: 100px;
+    background-color: #212121;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Footer
+--------------------------------------------------------
+*/
+footer{
+    display: grid;
+    align-items: center;
+    height: 100px;
+    background-color: #212121;
+    color: #ffffff;
+}
